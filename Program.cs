@@ -1,4 +1,7 @@
-﻿using System;
+// this file is the main program file coded with Visual Studio by Microsoft. If you are-
+// modifing this software, I recommend using VS as it knows these libs already.
+// Also ensure you have the proper NuGet packages aswell!
+using System;
 using System.IO;
 using Spectre.Console;
 
@@ -58,4 +61,5 @@ class Program
             SaveNote(input);
         }
     }
+
 }
